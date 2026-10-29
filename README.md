@@ -23,6 +23,3 @@ Práctica en JavaScript para calcular el factorial de un número entero.
 | -3 | Error: ingresa un número entero entre 0 y 170. |
 | 2.5 | Error: ingresa un número entero entre 0 y 170. |
 
-## Cómo ejecutar
-
-Abrir el archivo `index.html` en un navegador o publicar el repositorio con GitHub Pages.
